@@ -23,11 +23,11 @@ export default function Navbar() {
             Dashboard
           </a>
         </li>
-        <li>
+        {/*<li>
           <a href="/policies" className="hover:underline">
             Policies
           </a>
-        </li>
+        </li>*/}
       </ul>
 
       <div>
